@@ -1,3 +1,2 @@
 # Ini cuma latihan membuat branch di GitHub
-*ada hal yang harus di ubah lagi*<br>
-p
+*ada hal yang harus di ubah lagi*p
