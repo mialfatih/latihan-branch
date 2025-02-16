@@ -1,1 +1,1 @@
-# latihan-branch
+# Ini cuma latihan membuat branch di GitHub
